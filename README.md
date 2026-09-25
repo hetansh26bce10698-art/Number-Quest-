@@ -121,7 +121,6 @@ Possible future improvements include:
 * Adding more advanced problem-solving challenges
 
 ## Author
-
-**Hetansh Solanki**
+Hetansh Solanki
 CSE Core – VIT Bhopal
 Course: CSE1021 – Introduction to Problem Solving and Programming
